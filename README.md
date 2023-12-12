@@ -1,1 +1,1 @@
-This is one of my personal project that I did in order to practice the basics of vivaldi bootstrap with the help of my teacher , and is not intended by any means for hackers to use in order to lure other users who are trying to download the actual vivaldi executable file.
+This is one of my personal project that I did in order to practice the basics of bootstrap with the help of my teacher , and is not intended by any means for hackers to use in order to lure other users who are trying to download the actual vivaldi executable file.
